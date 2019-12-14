@@ -1,0 +1,4 @@
+/mnt/c/Users/Assar/CLionProjects/Os_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Assar/CLionProjects/Os_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Assar/CLionProjects/Os_3/cmake-build-debug/CMakeFiles/Os_3.dir
+/mnt/c/Users/Assar/CLionProjects/Os_3/cmake-build-debug/CMakeFiles/monitor.dir
